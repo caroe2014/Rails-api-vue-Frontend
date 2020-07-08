@@ -1,0 +1,1 @@
+JWTSessions.encryption_key = 'no importa que el sol se meta si el viento seca la ropa'
