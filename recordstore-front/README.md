@@ -1,6 +1,6 @@
 # recordstore-front
 
-> A vue.js Front-end App for Rails API
+> A Vue,js fronte-end for Rails Backend app
 
 ## Build Setup
 
